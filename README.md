@@ -1,6 +1,6 @@
 # easy_oauth
 
-The EasyOAuth shard builds and verifies OAuth headers for use with third party libraries such as [Halite](https://github.com/icyleaf/halite).
+The EasyOAuth shard builds and verifies OAuth headers for use with third party libraries such as [Halite](https://github.com/icyleaf/halite). This library is a port of [laserlemon/simple_oauth](https://github.com/laserlemon/simple_oauth).
 
 ## Installation
 
