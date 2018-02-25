@@ -1,0 +1,19 @@
+name: easy_oauth
+version: 0.1.0
+
+authors:
+  - Chris Watson <chris@watzon.me>
+
+crystal: 0.24.1
+
+development_dependencies:
+  spec2:
+    github: waterlink/spec2.cr
+    version: ~> 0.9
+  mocks:
+    github: waterlink/mocks.cr
+    version: ~> 0.9
+  spec2-mocks:
+    github: waterlink/spec2-mocks.cr
+    
+license: MIT
