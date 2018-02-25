@@ -1,5 +1,7 @@
 # easy_oauth
 
+![Travis](https://img.shields.io/travis/watzon/easy_oauth)  ![GitHub issue age](https://img.shields.io/github/issues/detail/age/badges/shields/979.svg) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 The EasyOAuth shard builds and verifies OAuth headers for use with third party libraries such as [Halite](https://github.com/icyleaf/halite). This library is a port of [laserlemon/simple_oauth](https://github.com/laserlemon/simple_oauth).
 
 ## Installation
